@@ -1,0 +1,1 @@
+Welcome to the Java Tasks repository! This project contains a collection of programming challenges focused on logical problem-solving using Java. The challenges are designed to test and improve your problem-solving skills and understanding of algorithms and data structures.
